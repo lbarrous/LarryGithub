@@ -2,4 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Alvaro Perez**, Git lover
+**Alvaro Perez**, Git lover & Larry Plotter lover 
+
